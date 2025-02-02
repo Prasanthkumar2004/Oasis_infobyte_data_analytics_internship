@@ -2,9 +2,9 @@
 
 The focus of this internship was data analytics. On the Oasis Infobyte website, I submitted an application for this internship. I successfully completed all the tasks assigned during the internship and submitted 9 out of the 9 projects across two levels. Below is a list of all the projects I've completed:  
 
-- Level 1:4 Projects
+- Level 1: 4 Projects
    
-- Level 2:5 Projects
+- Level 2: 5 Projects
 
 **LEVEL-1**
 
@@ -23,6 +23,7 @@ Using the provided datasets, I cleaned and prepared the data for analysis by add
 **PROJECT-4: Sentiment Analysis**
 
 For this project, I developed a sentiment analysis model to classify the sentiment of text data into positive, negative, or neutral categories. I used Natural Language Processing (NLP) techniques to process the text data, implemented machine learning models like Naive Bayes and Support Vector Machines, and performed feature engineering to improve model accuracy. I visualized the results using word clouds and bar charts to present insights into customer feedback or social media sentiment trends.
+
 
 **LEVEL-2**
 
